@@ -7,7 +7,7 @@
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-115" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="580" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-116" value="订单管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-116" value="订单处理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-117" value="酒店信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -22,7 +22,7 @@
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-120" value="房型信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="470" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-121" value="酒店预定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-121" value="房间管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-122" value="入住人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
