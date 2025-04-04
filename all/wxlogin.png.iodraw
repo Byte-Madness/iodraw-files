@@ -80,8 +80,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-93" value="更新收藏状态" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-93" value="返回收藏状态" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
