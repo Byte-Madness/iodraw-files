@@ -36,11 +36,10 @@
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-106" value="获取酒店" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-108" target="vQw3l-_zD5V4dzRUe0Ol-109">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-108" value="获取酒店房型列表" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="vQw3l-_zD5V4dzRUe0Ol-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="660" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-109" value="构建酒店详细信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="680" width="120" height="60" as="geometry" />
