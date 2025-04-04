@@ -43,8 +43,14 @@
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-97" value="获取酒店详细信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-101" target="vQw3l-_zD5V4dzRUe0Ol-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-101" value="是否为空？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" y="530" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-103" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
