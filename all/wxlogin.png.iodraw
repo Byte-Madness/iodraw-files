@@ -43,7 +43,7 @@
           <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-109" value="构建酒店详细信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-109" target="vQw3l-_zD5V4dzRUe0Ol-89">
           <mxGeometry relative="1" as="geometry" />
