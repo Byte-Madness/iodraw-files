@@ -7,8 +7,14 @@
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-135" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="260" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-136" target="vQw3l-_zD5V4dzRUe0Ol-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-136" value="输入账户密码和验证码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-137" value="判断验证码是否正确" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="490" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
