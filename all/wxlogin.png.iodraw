@@ -13,7 +13,7 @@
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-136" value="输入账户密码和验证码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-137">
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-137" target="vQw3l-_zD5V4dzRUe0Ol-146">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="585" as="targetPoint" />
           </mxGeometry>
@@ -37,6 +37,9 @@
         </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-148" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="520" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-146" target="vQw3l-_zD5V4dzRUe0Ol-136">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
