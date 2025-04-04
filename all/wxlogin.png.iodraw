@@ -9,6 +9,9 @@
             <mxPoint x="400" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-52" target="vQw3l-_zD5V4dzRUe0Ol-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-52" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="340" width="100" height="60" as="geometry" />
         </mxCell>
@@ -28,6 +31,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="920" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-97" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
