@@ -1,57 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="298" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="514" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-34" target="vQw3l-_zD5V4dzRUe0Ol-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-34" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="270" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-35" target="vQw3l-_zD5V4dzRUe0Ol-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-35" value="获取当前用户id" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-37" target="vQw3l-_zD5V4dzRUe0Ol-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-37" target="vQw3l-_zD5V4dzRUe0Ol-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-37" value="是否为空？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="440" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-39" target="vQw3l-_zD5V4dzRUe0Ol-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-39" value="获取全部酒店信息列表" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-42" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="448" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-43" target="vQw3l-_zD5V4dzRUe0Ol-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-43" value="获取用户个性化推荐酒店信息列表" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-46" value="返回酒店信息列表" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-49" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="670" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-46" target="vQw3l-_zD5V4dzRUe0Ol-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-51" value="获取用户个性化推荐酒店信息列表" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
