@@ -16,11 +16,17 @@
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-35" value="获取当前用户id" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-37" target="vQw3l-_zD5V4dzRUe0Ol-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-37" value="是否为空？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-39" value="分页获取全部酒店信息列表" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="448" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
