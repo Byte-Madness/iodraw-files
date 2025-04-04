@@ -31,8 +31,20 @@
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-7" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="368" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-10" target="vQw3l-_zD5V4dzRUe0Ol-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vQw3l-_zD5V4dzRUe0Ol-10" value="查询可用房间列表" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vQw3l-_zD5V4dzRUe0Ol-12" target="vQw3l-_zD5V4dzRUe0Ol-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-12" value="列表为空？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vQw3l-_zD5V4dzRUe0Ol-14" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
