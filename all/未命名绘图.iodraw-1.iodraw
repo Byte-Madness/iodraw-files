@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2_LBQxc9n5mSYChvxIkS-7" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="30" height="60" as="geometry" />
+          <mxGeometry x="550" y="277.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2_LBQxc9n5mSYChvxIkS-9" value="酒店个性化推荐" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="210" width="90" height="35" as="geometry" />
