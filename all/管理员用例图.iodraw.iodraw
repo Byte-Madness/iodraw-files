@@ -19,8 +19,8 @@
         <mxCell id="qotRDlVwz3neKlJaf9VL-6" value="房间实时动态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="530" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qotRDlVwz3neKlJaf9VL-7" value="房间实时动态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="520" width="20" height="110" as="geometry" />
+        <mxCell id="qotRDlVwz3neKlJaf9VL-7" value="酒店预定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qotRDlVwz3neKlJaf9VL-8" value="广告轮播图管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="520" width="20" height="110" as="geometry" />
