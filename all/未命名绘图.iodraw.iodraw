@@ -107,15 +107,6 @@
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-33" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="885" y="748" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9aHi8Qe4Tfb8032HRxkr-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aHi8Qe4Tfb8032HRxkr-34" target="9aHi8Qe4Tfb8032HRxkr-48" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1070" y="1510" />
-              <mxPoint x="1105" y="1510" />
-              <mxPoint x="1105" y="1270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-34" value="创建新用户对象（基础信息）" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1030" y="810" width="80" height="30" as="geometry" />
         </mxCell>
@@ -166,23 +157,16 @@
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-46" value="设置用户信息" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="885" y="990" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9aHi8Qe4Tfb8032HRxkr-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aHi8Qe4Tfb8032HRxkr-48" target="9aHi8Qe4Tfb8032HRxkr-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9aHi8Qe4Tfb8032HRxkr-59" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="980" y="1340" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="9aHi8Qe4Tfb8032HRxkr-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="9aHi8Qe4Tfb8032HRxkr-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aHi8Qe4Tfb8032HRxkr-48" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="1270" as="sourcePoint" />
-            <mxPoint x="990" y="1300" as="targetPoint" />
+            <mxPoint x="990" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aHi8Qe4Tfb8032HRxkr-74" target="9aHi8Qe4Tfb8032HRxkr-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-74" value="生成JWT令牌" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;rounded=0;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="930" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aHi8Qe4Tfb8032HRxkr-76" target="9aHi8Qe4Tfb8032HRxkr-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
