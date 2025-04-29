@@ -28,7 +28,7 @@
         <mxCell id="qotRDlVwz3neKlJaf9VL-9" value="酒店信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="520" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qotRDlVwz3neKlJaf9VL-10" value="房型管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qotRDlVwz3neKlJaf9VL-10" value="房间类型管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qotRDlVwz3neKlJaf9VL-11" value="房间管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="qotRDlVwz3neKlJaf9VL-17" value="个人预定订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="520" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qotRDlVwz3neKlJaf9VL-18" value="个人预定订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qotRDlVwz3neKlJaf9VL-18" value="入住人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="520" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
