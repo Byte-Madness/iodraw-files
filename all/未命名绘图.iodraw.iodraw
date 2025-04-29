@@ -128,15 +128,6 @@
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-37" value="用户存在？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="840" y="870" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9aHi8Qe4Tfb8032HRxkr-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aHi8Qe4Tfb8032HRxkr-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="1370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="1350" />
-              <mxPoint x="990" y="1350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-41" value="更新用户openid和登录状态" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="720" y="920" width="100" height="40" as="geometry" />
         </mxCell>
@@ -157,16 +148,11 @@
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-46" value="设置用户信息" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="885" y="990" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9aHi8Qe4Tfb8032HRxkr-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aHi8Qe4Tfb8032HRxkr-48" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="1350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aHi8Qe4Tfb8032HRxkr-74" target="9aHi8Qe4Tfb8032HRxkr-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-74" value="生成JWT令牌" style="whiteSpace=wrap;html=1;sketch=0;pointerEvents=1;resizable=0;rounded=0;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="850" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="875" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aHi8Qe4Tfb8032HRxkr-76" target="9aHi8Qe4Tfb8032HRxkr-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
