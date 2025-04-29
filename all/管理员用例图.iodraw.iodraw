@@ -32,12 +32,12 @@
           <mxGeometry x="370" y="570" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qotRDlVwz3neKlJaf9VL-11" value="房间实时动态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="580" width="20" height="110" as="geometry" />
+          <mxGeometry x="440" y="530" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qotRDlVwz3neKlJaf9VL-12" value="系统菜单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="520" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qotRDlVwz3neKlJaf9VL-13" value="员工管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qotRDlVwz3neKlJaf9VL-13" value="员工&lt;div&gt;权限管理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="520" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
