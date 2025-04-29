@@ -13,6 +13,9 @@
         <mxCell id="qotRDlVwz3neKlJaf9VL-4" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qotRDlVwz3neKlJaf9VL-5" value="酒店预约管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="120" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
