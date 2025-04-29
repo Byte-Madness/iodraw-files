@@ -253,6 +253,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="MdkQrZsO4AmOrx3uh5hs-21" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="1217" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
