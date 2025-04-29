@@ -14,7 +14,7 @@
           <mxGeometry x="170" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qotRDlVwz3neKlJaf9VL-5" value="酒店信息浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="520" width="20" height="110" as="geometry" />
+          <mxGeometry x="150" y="520" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qotRDlVwz3neKlJaf9VL-6" value="个性化推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="520" width="20" height="110" as="geometry" />
@@ -41,10 +41,10 @@
           <mxGeometry x="530" y="520" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qotRDlVwz3neKlJaf9VL-15" value="酒店搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="520" width="20" height="110" as="geometry" />
+          <mxGeometry x="60" y="520" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qotRDlVwz3neKlJaf9VL-16" value="酒店信息浏览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="530" width="20" height="110" as="geometry" />
+          <mxGeometry x="180" y="520" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
