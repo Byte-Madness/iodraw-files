@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="openid为空？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="910" y="360" width="100" height="80" as="geometry" />
+          <mxGeometry x="910" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-2" value="抛出登录失败异常" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="430" width="120" height="60" as="geometry" />
@@ -28,7 +28,7 @@
           <mxGeometry x="925" y="250" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-7" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="840" y="370" width="40" height="30" as="geometry" />
+          <mxGeometry x="870" y="360" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9aHi8Qe4Tfb8032HRxkr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9aHi8Qe4Tfb8032HRxkr-12" target="9aHi8Qe4Tfb8032HRxkr-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
