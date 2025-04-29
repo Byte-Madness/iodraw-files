@@ -256,7 +256,7 @@
         <mxCell id="MdkQrZsO4AmOrx3uh5hs-21" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="1160" width="57.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MdkQrZsO4AmOrx3uh5hs-22" value="获取轮播图列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MdkQrZsO4AmOrx3uh5hs-22" value="点击收藏列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="691.25" y="1210" width="95" height="29" as="geometry" />
         </mxCell>
         <mxCell id="MdkQrZsO4AmOrx3uh5hs-23" value="列表为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
