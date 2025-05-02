@@ -259,7 +259,7 @@
           <mxGeometry x="1095" y="-250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-6" value="返回未登录状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="-250" width="90" height="30" as="geometry" />
+          <mxGeometry x="930" y="-250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-7" value="列表为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1095" y="-200" width="90" height="40" as="geometry" />
@@ -302,7 +302,7 @@
             <mxPoint x="1040" y="-150" as="sourcePoint" />
             <mxPoint x="1090" y="-200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="985" y="-275" />
+              <mxPoint x="970" y="-275" />
             </Array>
           </mxGeometry>
         </mxCell>
