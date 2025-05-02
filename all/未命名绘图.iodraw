@@ -256,10 +256,13 @@
           <mxGeometry x="1025" y="-290" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-5" value="查询可用房间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1130" y="-240" width="90" height="30" as="geometry" />
+          <mxGeometry x="1140" y="-250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-6" value="获取当前用户id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="905" y="-250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-7" value="id为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1035" y="-280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
