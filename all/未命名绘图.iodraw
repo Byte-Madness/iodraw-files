@@ -839,6 +839,9 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-249" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2245" y="-1276" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-282" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-251" target="kuArUYD4m0pXWPyYByBX-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-251" value="获取用户历史行为记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2230" y="-1226" width="90" height="30" as="geometry" />
         </mxCell>
