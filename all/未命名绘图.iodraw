@@ -556,7 +556,7 @@
           <mxGeometry x="1741" y="-499" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-126" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2003" y="-360" width="60" height="30" as="geometry" />
+          <mxGeometry x="2003" y="-351" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-127" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1993" y="-105" width="60" height="30" as="geometry" />
@@ -586,7 +586,7 @@
           <mxGeometry x="2116" y="-183" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-149" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1887" y="-225" width="20" height="20" as="geometry" />
+          <mxGeometry x="2023" y="-185" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
