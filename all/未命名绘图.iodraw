@@ -636,8 +636,11 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-164" value="id为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1589" y="-1226" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-165" target="kuArUYD4m0pXWPyYByBX-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-165" value="获取收藏记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1689" y="-1186" width="90" height="30" as="geometry" />
+          <mxGeometry x="1754.13" y="-1226" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-166" value="返回未登录状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1447" y="-1226" width="80" height="30" as="geometry" />
@@ -657,7 +660,7 @@
             <mxPoint x="1684" y="-1136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-170" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-164" target="kuArUYD4m0pXWPyYByBX-165">
+        <mxCell id="kuArUYD4m0pXWPyYByBX-170" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-164" target="kuArUYD4m0pXWPyYByBX-165">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1634" y="-1086" as="sourcePoint" />
             <mxPoint x="1684" y="-1136" as="targetPoint" />
