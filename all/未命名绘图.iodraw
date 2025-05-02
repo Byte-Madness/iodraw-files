@@ -559,7 +559,7 @@
           <mxGeometry x="2003" y="-360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-127" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2003" y="-190" width="60" height="30" as="geometry" />
+          <mxGeometry x="1993" y="-105" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-130" value="获取酒店详细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1993" y="-299" width="80" height="21" as="geometry" />
@@ -581,13 +581,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-140" value="返回搜索结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1993" y="-230" width="80" height="21" as="geometry" />
+          <mxGeometry x="1983" y="-160" width="80" height="21" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-130">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1942" y="-189" as="sourcePoint" />
             <mxPoint x="2033" y="-249" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-143" value="是否为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1857" y="-255" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
