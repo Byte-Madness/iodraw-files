@@ -377,7 +377,7 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-31" value="id为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1400" y="-260" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-32" value="查询可用房间列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kuArUYD4m0pXWPyYByBX-32" value="获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1470" y="-220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-33" value="获取全部酒店信息列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -486,6 +486,9 @@
             <mxPoint x="1435" y="-120" as="sourcePoint" />
             <mxPoint x="1485" y="-170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-54" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1470" y="-200" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
