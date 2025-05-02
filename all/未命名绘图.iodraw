@@ -583,6 +583,9 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-147" value="获取酒店房型列表" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2116" y="-245" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-148" value="构建酒店详细信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2121" y="-190" width="80" height="21" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
