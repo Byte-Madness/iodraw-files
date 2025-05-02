@@ -646,7 +646,7 @@
           <mxGeometry x="1447" y="-1226" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-167" value="更新收藏状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1566" y="-1131" width="90" height="30" as="geometry" />
+          <mxGeometry x="1599" y="-1176.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-168" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-161" target="kuArUYD4m0pXWPyYByBX-163">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -675,6 +675,9 @@
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-173" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1644" y="-1238" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-176" target="kuArUYD4m0pXWPyYByBX-167">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-176" value="是否存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1711" y="-1179" width="80" height="35" as="geometry" />
