@@ -837,10 +837,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-249" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2247" y="-1279" width="60" height="30" as="geometry" />
+          <mxGeometry x="2245" y="-1276" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-251" value="获取用户历史行为记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2232" y="-1226" width="90" height="30" as="geometry" />
+          <mxGeometry x="2230" y="-1226" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-256" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-249" target="kuArUYD4m0pXWPyYByBX-251">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -849,10 +849,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-276" value="根据每个用户id进行行为分组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2230" y="-1186" width="90" height="30" as="geometry" />
+          <mxGeometry x="2230" y="-1179" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-277" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2370" y="-1156" width="90" height="26" as="geometry" />
+          <mxGeometry x="2320" y="-1179" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
