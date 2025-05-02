@@ -822,7 +822,10 @@
           <mxGeometry x="1632.5" y="-766" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-233" value="返回订单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1671" y="-776" width="90" height="30" as="geometry" />
+          <mxGeometry x="1660" y="-771" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-244" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-239" target="kuArUYD4m0pXWPyYByBX-233">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-239" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1771" y="-766" width="20" height="20" as="geometry" />
