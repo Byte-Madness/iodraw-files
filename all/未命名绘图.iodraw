@@ -491,7 +491,7 @@
           <mxGeometry x="1816" y="-460" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-80" value="获取全部酒店信息列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1603.75" y="-380" width="80" height="30" as="geometry" />
+          <mxGeometry x="1603.75" y="-470" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-81" value="整合列表并返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1811" y="-405" width="90" height="30" as="geometry" />
@@ -508,16 +508,6 @@
             <mxPoint x="1811" y="-410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1861" y="-485" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-78" target="kuArUYD4m0pXWPyYByBX-93">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1761" y="-360" as="sourcePoint" />
-            <mxPoint x="1656" y="-440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1691" y="-485" />
-              <mxPoint x="1656" y="-485" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -542,23 +532,16 @@
             <mxPoint x="1736" y="-440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-93" target="kuArUYD4m0pXWPyYByBX-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-93" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1646" y="-455" width="20" height="20" as="geometry" />
+        <mxCell id="kuArUYD4m0pXWPyYByBX-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-78" target="kuArUYD4m0pXWPyYByBX-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1656" y="-445" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-94" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1736" y="-435" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-95" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1676" y="-470" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-90" target="kuArUYD4m0pXWPyYByBX-93">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1666" y="-430" as="sourcePoint" />
-            <mxPoint x="1686" y="-470" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-98" target="kuArUYD4m0pXWPyYByBX-81">
           <mxGeometry relative="1" as="geometry" />
