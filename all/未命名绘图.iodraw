@@ -440,12 +440,14 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-51" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1415" y="-215" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.988;entryY=0.674;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kuArUYD4m0pXWPyYByBX-51">
+        <mxCell id="kuArUYD4m0pXWPyYByBX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1515" y="-60" />
+              <mxPoint x="1450" y="-205" />
+              <mxPoint x="1450" y="-205" />
             </Array>
             <mxPoint x="1515" y="-80" as="sourcePoint" />
+            <mxPoint x="1425" y="-205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-54" value="获取个性化推荐列表" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
