@@ -640,7 +640,7 @@
           <mxGeometry x="1689" y="-1186" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-166" value="返回未登录状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1489" y="-1131" width="80" height="30" as="geometry" />
+          <mxGeometry x="1425" y="-1226" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-167" value="整合列表并返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1684" y="-1131" width="90" height="30" as="geometry" />
@@ -708,12 +708,6 @@
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-184" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1609" y="-1126" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-185" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-166" target="kuArUYD4m0pXWPyYByBX-184">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1539" y="-1106" as="sourcePoint" />
-            <mxPoint x="1589" y="-1156" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-186" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-167" target="kuArUYD4m0pXWPyYByBX-162">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
