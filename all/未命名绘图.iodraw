@@ -564,7 +564,7 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-142" target="kuArUYD4m0pXWPyYByBX-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-130" value="返回空列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kuArUYD4m0pXWPyYByBX-130" value="获取酒店详细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1863" y="-260" width="80" height="21" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-126">
@@ -603,15 +603,6 @@
             <mxPoint x="1902" y="-220" as="sourcePoint" />
             <mxPoint x="1902" y="-220" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-138" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1965.75" y="-284" as="sourcePoint" />
-            <mxPoint x="1902" y="-260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1902" y="-284" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-140" target="kuArUYD4m0pXWPyYByBX-127">
