@@ -488,7 +488,7 @@
           <mxGeometry x="1683.75" y="-544" width="134.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-80" value="返回空列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1577.88" y="-483" width="80" height="30" as="geometry" />
+          <mxGeometry x="1575" y="-453" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-81" value="返回搜索结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1818.25" y="-390" width="90" height="30" as="geometry" />
