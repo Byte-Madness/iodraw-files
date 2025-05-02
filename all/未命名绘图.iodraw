@@ -854,7 +854,7 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-283" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-276" target="kuArUYD4m0pXWPyYByBX-277">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-276" value="根据每个用户id进行行为分组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kuArUYD4m0pXWPyYByBX-276" value="根据酒店id整理用户行为记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2380" y="-1226" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-277" target="kuArUYD4m0pXWPyYByBX-278">
@@ -881,6 +881,7 @@
             <mxPoint x="2330" y="-1150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2145" y="-1120" />
+              <mxPoint x="2145" y="-1109" />
               <mxPoint x="2275" y="-1107" />
             </Array>
           </mxGeometry>
