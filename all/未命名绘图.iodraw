@@ -636,9 +636,6 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-164" value="id为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1589" y="-1226" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-165" target="kuArUYD4m0pXWPyYByBX-173">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-165" value="获取收藏记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1754.13" y="-1226" width="90" height="30" as="geometry" />
         </mxCell>
