@@ -827,12 +827,6 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-239" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1771" y="-766" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-243" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-239" target="kuArUYD4m0pXWPyYByBX-233">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1750" y="-770" as="sourcePoint" />
-            <mxPoint x="1800" y="-820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
