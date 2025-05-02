@@ -816,11 +816,6 @@
             <mxPoint x="1699" y="-708" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-229">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1744" y="-723" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-229" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1734" y="-766" width="20" height="20" as="geometry" />
         </mxCell>
@@ -838,6 +833,9 @@
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-232" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1632.5" y="-718" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-233" value="返回订单信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1741" y="-723" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
