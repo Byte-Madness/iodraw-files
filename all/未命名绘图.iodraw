@@ -588,6 +588,16 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-149" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2023" y="-185" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2032.7385714285715" y="-321" as="sourcePoint" />
+            <mxPoint x="2032.71" y="-287" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2032.71" y="-317" />
+              <mxPoint x="2032.71" y="-317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
