@@ -381,7 +381,7 @@
           <mxGeometry x="1470" y="-220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-33" value="获取全部酒店信息列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1300" y="-220" width="90" height="30" as="geometry" />
+          <mxGeometry x="1240" y="-220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-37" value="整合列表并返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1365" y="-90" width="90" height="30" as="geometry" />
@@ -428,6 +428,7 @@
             <mxPoint x="1425" y="-205" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1410" y="-205" />
+              <mxPoint x="1360" y="-200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -437,7 +438,7 @@
         <mxCell id="kuArUYD4m0pXWPyYByBX-56" value="列表为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1475" y="-165" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-54">
+        <mxCell id="kuArUYD4m0pXWPyYByBX-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-54" target="kuArUYD4m0pXWPyYByBX-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1340" y="-150" as="sourcePoint" />
             <mxPoint x="1390" y="-200" as="targetPoint" />
