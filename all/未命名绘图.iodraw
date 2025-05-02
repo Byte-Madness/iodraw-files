@@ -529,12 +529,11 @@
             <mxPoint x="1676" y="-480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1856" y="-360" />
-              <mxPoint x="1751" y="-360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-102" value="搜索结果为空？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1683.75" y="-421" width="134.5" height="40" as="geometry" />
+          <mxGeometry x="1697.88" y="-419" width="106.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
