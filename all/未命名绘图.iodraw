@@ -848,7 +848,7 @@
             <mxPoint x="2337" y="-1089" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-276" value="获取用户历史行为记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kuArUYD4m0pXWPyYByBX-276" value="根据每个用户id进行行为分组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2232" y="-1186" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
