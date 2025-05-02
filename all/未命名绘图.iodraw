@@ -800,10 +800,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-222" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1904" y="-796" width="40" height="30" as="geometry" />
+          <mxGeometry x="2101" y="-819.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-223" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1843" y="-829" width="40" height="30" as="geometry" />
+          <mxGeometry x="1907" y="-796" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-224" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-225" target="kuArUYD4m0pXWPyYByBX-229">
           <mxGeometry relative="1" as="geometry" />
