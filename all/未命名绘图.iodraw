@@ -628,7 +628,7 @@
           <mxGeometry x="1594" y="-1326" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-162" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1450" y="-1060" width="60" height="30" as="geometry" />
+          <mxGeometry x="1435" y="-1050" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-163" value="获取当前用户id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1579" y="-1276" width="90" height="30" as="geometry" />
@@ -708,6 +708,9 @@
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-189" value="返回收藏状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1540" y="-1080" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-196" target="kuArUYD4m0pXWPyYByBX-189">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-196" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1575" y="-1123" width="20" height="20" as="geometry" />
