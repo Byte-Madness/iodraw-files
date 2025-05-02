@@ -851,14 +851,20 @@
             <mxPoint x="2337" y="-1089" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-283" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-276" target="kuArUYD4m0pXWPyYByBX-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-276" value="根据每个用户id进行行为分组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2380" y="-1226" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kuArUYD4m0pXWPyYByBX-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-277" target="kuArUYD4m0pXWPyYByBX-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-277" value="相似度计算" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2230" y="-1133" width="90" height="30" as="geometry" />
+          <mxGeometry x="2380" y="-1160" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-278" value="数据过&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%9B%B8%E4%BC%BC%E5%BA%A6%E8%AE%A1%E7%AE%97%22%20style%3D%22shape%3Dprocess%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222230%22%20y%3D%22-1133%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%9B%B8%E4%BC%BC%E5%BA%A6%E8%AE%A1%E7%AE%97%22%20style%3D%22shape%3Dprocess%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BbackgroundOutline%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222230%22%20y%3D%22-1133%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;滤" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2230" y="-1085" width="90" height="30" as="geometry" />
+          <mxGeometry x="2230" y="-1160" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-279" value="返回推荐酒店列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2230" y="-1040" width="90" height="30" as="geometry" />
