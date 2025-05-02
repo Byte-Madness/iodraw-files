@@ -448,12 +448,6 @@
             <mxPoint x="1515" y="-80" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuArUYD4m0pXWPyYByBX-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.492;exitY=0.69;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kuArUYD4m0pXWPyYByBX-51" target="kuArUYD4m0pXWPyYByBX-29">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1435" y="-120" as="sourcePoint" />
-            <mxPoint x="1485" y="-170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kuArUYD4m0pXWPyYByBX-54" value="获取个性化推荐列表" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1470" y="-220" width="90" height="30" as="geometry" />
         </mxCell>
