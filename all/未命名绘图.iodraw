@@ -162,16 +162,13 @@
           <mxGeometry x="431" y="514" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-34" value="酒店价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="598" width="80" height="31" as="geometry" />
+          <mxGeometry x="431" y="573" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-36" value="联系邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402" y="426" width="80" height="31" as="geometry" />
+          <mxGeometry x="411" y="632" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-37" value="酒店设备" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="426" width="80" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-38" value="所属区域" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="598" y="434" width="80" height="31" as="geometry" />
+          <mxGeometry x="431" y="446" width="80" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
