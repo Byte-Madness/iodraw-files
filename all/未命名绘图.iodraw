@@ -158,8 +158,8 @@
         <mxCell id="dOPbEAIYCnB7jvZhquBb-32" value="评分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="899" y="655" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-33" value="酒店分店名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="533" y="524" width="80" height="31" as="geometry" />
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-33" value="星级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="514" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-34" value="酒店分店名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="478" width="80" height="31" as="geometry" />
