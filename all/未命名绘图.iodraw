@@ -86,10 +86,10 @@
           <mxGeometry x="525" y="474" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-18" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="514" width="80" height="31" as="geometry" />
+          <mxGeometry x="797" y="486" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-19" value="详细地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="713" y="514" width="80" height="31" as="geometry" />
+          <mxGeometry x="709" y="476" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-18" target="dOPbEAIYCnB7jvZhquBb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-29" value="酒店名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="899" y="514" width="80" height="31" as="geometry" />
+          <mxGeometry x="865" y="514" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-30" value="酒店类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="901" y="566" width="80" height="31" as="geometry" />
@@ -153,7 +153,12 @@
           <mxGeometry x="901" y="655" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-33" value="酒店星级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="431" y="514" width="80" height="31" as="geometry" />
+          <mxGeometry x="457" y="505" width="80" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499.7241379310344" y="563.9655677532328" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-34" value="酒店价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="431" y="573" width="80" height="31" as="geometry" />
