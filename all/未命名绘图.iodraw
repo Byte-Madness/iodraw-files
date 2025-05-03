@@ -215,7 +215,7 @@
           <mxGeometry x="810" y="243" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-59" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="389" width="80" height="31" as="geometry" />
+          <mxGeometry x="900" y="358" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-60" value="轮播图标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="243" width="80" height="31" as="geometry" />
@@ -233,7 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-72" value="轮播图状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="389" width="80" height="31" as="geometry" />
+          <mxGeometry x="710" y="358" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-73" value="跳转链接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="319" width="80" height="31" as="geometry" />
@@ -287,7 +287,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-87" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="398" width="80" height="31" as="geometry" />
+          <mxGeometry x="810" y="358" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-88" value="图片链接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="243" width="80" height="31" as="geometry" />
