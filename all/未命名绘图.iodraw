@@ -80,7 +80,7 @@
           <mxGeometry x="585" y="560" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-16" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="690" width="80" height="31" as="geometry" />
+          <mxGeometry x="760" y="700" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-17" value="酒店分店名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="560" width="80" height="31" as="geometry" />
@@ -119,10 +119,10 @@
           <mxGeometry x="850" y="570" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-30" value="酒店类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="690" width="80" height="31" as="geometry" />
+          <mxGeometry x="670" y="700" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-31" value="酒店封面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="690" width="80" height="31" as="geometry" />
+          <mxGeometry x="585" y="700" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-32" value="评分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="690" width="80" height="31" as="geometry" />
@@ -176,6 +176,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="661" as="sourcePoint" />
             <mxPoint x="740" y="692" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-1" target="dOPbEAIYCnB7jvZhquBb-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="671" as="sourcePoint" />
+            <mxPoint x="750" y="702" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
