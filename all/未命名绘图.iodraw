@@ -253,19 +253,13 @@
         <mxCell id="dOPbEAIYCnB7jvZhquBb-67" value="酒店名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="259" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-68" value="酒店类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="389" width="80" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-69" value="酒店封面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="389" width="80" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-70" value="评分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="379" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-71" value="酒店星级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="299" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-72" value="酒店价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-72" value="轮播图状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="389" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-73" value="跳转链接" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -289,9 +283,9 @@
             <mxPoint x="870" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-78" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-69" target="dOPbEAIYCnB7jvZhquBb-56">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-78" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="dOPbEAIYCnB7jvZhquBb-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="725" y="330" as="sourcePoint" />
+            <mxPoint x="795" y="389" as="sourcePoint" />
             <mxPoint x="865" y="361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -319,10 +313,10 @@
             <mxPoint x="920" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-83" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-56" target="dOPbEAIYCnB7jvZhquBb-68">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-83" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="370" as="sourcePoint" />
-            <mxPoint x="930" y="401" as="targetPoint" />
+            <mxPoint x="880" y="389" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-84" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-56" target="dOPbEAIYCnB7jvZhquBb-59">
