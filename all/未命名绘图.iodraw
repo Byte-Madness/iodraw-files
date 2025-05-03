@@ -124,7 +124,7 @@
         <mxCell id="dOPbEAIYCnB7jvZhquBb-31" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="700" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-32" value="入住天数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-32" value="登录类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="690" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-33" value="身份证号码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
