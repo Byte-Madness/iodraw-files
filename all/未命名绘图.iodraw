@@ -83,7 +83,7 @@
           <mxGeometry x="803" y="655" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-17" value="酒店分店名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="474" width="80" height="31" as="geometry" />
+          <mxGeometry x="530" y="470" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-18" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793" y="480" width="80" height="31" as="geometry" />
@@ -153,7 +153,7 @@
           <mxGeometry x="901" y="655" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-33" value="酒店星级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457" y="505" width="80" height="31" as="geometry" />
+          <mxGeometry x="459" y="497" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-34">
           <mxGeometry relative="1" as="geometry">
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-34" value="酒店价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="431" y="542" width="80" height="31" as="geometry" />
+          <mxGeometry x="327" y="525" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-36" value="联系邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="412" y="655" width="80" height="31" as="geometry" />
@@ -171,9 +171,6 @@
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-40" value="酒店描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="655" width="80" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-17" target="dOPbEAIYCnB7jvZhquBb-17">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
