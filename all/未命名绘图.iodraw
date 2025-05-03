@@ -83,9 +83,9 @@
           <mxGeometry x="70" y="469" width="60" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-5" value="收藏ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="479" width="60" height="31" as="geometry" />
+          <mxGeometry x="70" y="509" width="60" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-6" value="收藏ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-6" value="收藏时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="490" width="60" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-7" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
