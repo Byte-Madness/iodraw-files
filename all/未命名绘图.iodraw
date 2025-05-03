@@ -125,10 +125,10 @@
           <mxGeometry x="585" y="690" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-32" value="评分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="632" width="80" height="31" as="geometry" />
+          <mxGeometry x="850" y="690" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-33" value="酒店星级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="451" width="80" height="31" as="geometry" />
+          <mxGeometry x="850" y="610" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-34" value="酒店价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="690" width="80" height="31" as="geometry" />
@@ -141,6 +141,24 @@
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-40" value="酒店描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="610" width="80" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="611" as="sourcePoint" />
+            <mxPoint x="690" y="642" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-45" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="621" as="sourcePoint" />
+            <mxPoint x="700" y="652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-46" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="631" as="sourcePoint" />
+            <mxPoint x="710" y="662" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
