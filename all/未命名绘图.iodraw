@@ -205,7 +205,7 @@
             <mxPoint x="790" y="742" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-56" value="酒店房间表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-56" value="入住人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="764" y="300" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-58" value="入住人ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
