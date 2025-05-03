@@ -133,7 +133,7 @@
         <mxCell id="dOPbEAIYCnB7jvZhquBb-34" value="所属省份" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="700" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-37" value="租客ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-37" value="所属城市" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="690" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-40" value="订单编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
