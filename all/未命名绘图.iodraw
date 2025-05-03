@@ -220,15 +220,12 @@
         <mxCell id="dOPbEAIYCnB7jvZhquBb-60" value="轮播图标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="249" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-61" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="249" width="80" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-62" value="详细地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="249" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-61" target="dOPbEAIYCnB7jvZhquBb-56">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dOPbEAIYCnB7jvZhquBb-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1013" y="404" as="sourcePoint" />
+            <mxPoint x="970" y="280.0000000000001" as="sourcePoint" />
             <mxPoint x="1063" y="354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -250,15 +247,6 @@
             <mxPoint x="943" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-67" value="酒店名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="259" width="80" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-70" value="评分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="379" width="80" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-71" value="酒店星级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="299" width="80" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-72" value="轮播图状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="389" width="80" height="31" as="geometry" />
         </mxCell>
@@ -271,10 +259,10 @@
         <mxCell id="dOPbEAIYCnB7jvZhquBb-75" value="轮播图描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="299" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-76" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-56" target="dOPbEAIYCnB7jvZhquBb-67">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-76" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="300" as="sourcePoint" />
-            <mxPoint x="860" y="331" as="targetPoint" />
+            <mxPoint x="1031.2559143293327" y="285.2790321265004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dOPbEAIYCnB7jvZhquBb-77" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dOPbEAIYCnB7jvZhquBb-56">
@@ -325,20 +313,20 @@
             <mxPoint x="940" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-85" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-56" target="dOPbEAIYCnB7jvZhquBb-70">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-85" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="390" as="sourcePoint" />
-            <mxPoint x="950" y="421" as="targetPoint" />
+            <mxPoint x="1031.2559143293327" y="383.7209678734997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-86" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-56" target="dOPbEAIYCnB7jvZhquBb-71">
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-86" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOPbEAIYCnB7jvZhquBb-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="820" y="400" as="sourcePoint" />
-            <mxPoint x="960" y="431" as="targetPoint" />
+            <mxPoint x="1020.0000000000005" y="314.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dOPbEAIYCnB7jvZhquBb-87" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="399" width="80" height="31" as="geometry" />
+        <mxCell id="dOPbEAIYCnB7jvZhquBb-87" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="826" y="398" width="80" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
